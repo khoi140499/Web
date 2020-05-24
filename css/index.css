@@ -408,6 +408,7 @@ html, body{
 }
 .text01, .text02, .text03{
 	margin-left: 40px;
+	margin-top: -200px;
 }
 .text02{
 	margin-left: 52px;
